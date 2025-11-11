@@ -14,8 +14,7 @@ It empowers users and financial institutions to make informed lending decisions 
 - 🌐 **Interactive Streamlit App:** Simple, fast, and beautiful interface for model inference.
 - ⚙️ **Data Preprocessing & Feature Engineering:** Automated data cleaning and transformation pipeline.
 - 🧾 **Model Comparison Dashboard:** Evaluate multiple models side by side using MLflow metrics.
-- 💾 **PDF Report Generation (Optional):** Export analysis reports directly from the app.
-- ☁️ **Cloud-Ready:** Easily deployable on Streamlit Cloud, Render, or AWS.
+- ☁️ **Cloud-Ready:** Easily deployable on Streamlit Cloud.
 
 ---
 
